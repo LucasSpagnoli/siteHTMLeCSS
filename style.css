@@ -36,10 +36,10 @@ header div{
 }
 header p{
     font-family: Arial, Helvetica, sans-serif;
-    padding: 0px 20px;
     font-size: 1.1em;
     max-width: 600px;
-    margin: 30px auto;
+    padding: 20px 0;
+    margin: auto;
 }
 .verde{
     color: #00791e;
